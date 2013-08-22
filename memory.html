@@ -1,28 +1,34 @@
+<!-- Trabajo para la evaluación del curso de verano HTML5 y el futuro de la web-->
 <!DOCTYPE html>
 <html>
+	<meta charset="ISO-8859-1">
 	<head>
 		<title>Memory</title>
+		<meta name="author" content="Tania Castro">
 		<link rel="stylesheet" href="memory.css" type="text/css" />
 		<script type="text/javascript" src="jquery-1.5.2.min.js"></script>
 		<script type="text/javascript" src="memory.js"></script>
+		<noscript>Su navegador no soporta JavaScript. No puede mostrarse el juego</noscript>
 	</head>
 	<body>
 		<h1>Memory</h1>
+		<h2>Universidad de Oviedo</h2>
 		<div id="divTablero">
-			<p id="pNumeroIntentos" class="marcador">NÃºmero de intentos: <span id="numeroIntentos">0</span></p>
+			<p id="pNumeroIntentos" class="marcador">Número de intentos: <span id="numeroIntentos">0</span></p>
 			<div id="botonReiniciar" class="marcador"><button id="reiniciar">Reiniciar</button></div>
-			<p id="pCronometro" class="marcador">CronÃ³metro: <span id="cronometro"></span>&nbsp;segundos</p>
+			<p id="pCronometro" class="marcador">Cronómetro: <span id="cronometro"></span>&nbsp;segundos</p>
 			<table id="tablero">
 				
 			</table>
 		</div>
 		<div id="enhorabuena" class="oculto">
-			<h2>Â¡Enhorabuena!</h2>
+			<h2>¡Enhorabuena!</h2>
 			<p>Estos son tus resultados:</p>
 			<ol>
 			</ol>
 			<p>Este es tu mejor resultado:</p>
 			<p id="record"></p>
 		</div>
+		<footer>Videojuego realizado en el contexto del curso de verano HTML5 y el futuro de la web</footer>
 	</body>
 </html>
