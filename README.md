@@ -6,7 +6,7 @@ Juego Memory consistente en emparejar figuras idénticas realizado siguiendo los 
 
 Consta de las siguientes características propias de la versión 5 de HTML:
 
-* Uso de <footer>: Declara un pie de documento, sección o artículo.
+* Uso de footer: Declara un pie de documento, sección o artículo.
 
 * Uso de <meta charset="ISO-8859-1">: cubre las lenguas de Europa del Oeste, incluyendo francés, español, catalán, vasco, portugués, italiano, albanés, holandés, alemán, inglés, sueco, noruego y otras más. Esta familia es la base actual del juego de caracteres de HTML. 
 
