@@ -15,4 +15,4 @@ Consta de las siguientes características propias de la versión 5 de HTML:
 * Uso de la etiqueta noscript para usuarios de navegadores estáticos, que no soportan JavaScript o cuyo uso ha sido deshabilitado por el propio usuario. En HTML5 puede emplearse esta etiqueta tanto dentro de head como dentro de body (en HTML 4 su uso se restringía al ámbito del elemento body).
 
 
-EDITANDO FICHERO 
+EDITANDO FICHERO pjohu
