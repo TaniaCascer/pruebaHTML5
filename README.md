@@ -1,6 +1,4 @@
 MEMORY
-===========m
-
 Juego Memory consistente en emparejar figuras idénticas realizado siguiendo los estándares HTML5 y CSS3.
 
 
